@@ -6,10 +6,15 @@ import matplotlib.pyplot as plt
 # ================================
 # LOAD MODELS & ARTIFACTS
 # ================================
-clf = joblib.load("../models/xgb_classifier.pkl")
-reg = joblib.load("../models/xgb_regressor.pkl")
-columns = joblib.load("../models/feature_columns.pkl")
-medians = joblib.load("../models/median_values.pkl")
+# clf = joblib.load("../models/xgb_classifier.pkl")
+# reg = joblib.load("../models/xgb_regressor.pkl")
+# columns = joblib.load("../models/feature_columns.pkl")
+# medians = joblib.load("../models/median_values.pkl")
+
+clf = joblib.load("models/xgb_classifier.pkl")
+reg = joblib.load("models/xgb_regressor.pkl")
+columns = joblib.load("models/feature_columns.pkl")
+medians = joblib.load("models/median_values.pkl")
 
 st.set_page_config(page_title="EMI Predictor", layout="wide")
 
