@@ -1,0 +1,10 @@
+artifact_location: file:///e:/Data_Science/Guvi_Capstone%20Project/EMI_Predict_financial%20Risk%20Assessment/notebooks/mlruns/962091367227442449/models/m-c07ee7e18ad74bf39b81c8106c4d7fc8/artifacts
+creation_timestamp: 1776398603555
+experiment_id: '962091367227442449'
+last_updated_timestamp: 1776398613947
+model_id: m-c07ee7e18ad74bf39b81c8106c4d7fc8
+model_type: null
+name: classifier_model
+source_run_id: d72dfb43d44249e794c3c46f589e87b3
+status: 2
+status_message: null
