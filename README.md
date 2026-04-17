@@ -10,6 +10,7 @@ This project combines:
 - 🧠 Business Logic for real-world financial decisions
 
 ---
+## Live Demo URL:https://emi-predict-ai-risk-management.streamlit.app/
 
 ## Dataset: https://drive.google.com/drive/folders/1eCN-NmpxNWVDuT_LY70JPVC6AzDBzWSs?usp=drive_link
 
