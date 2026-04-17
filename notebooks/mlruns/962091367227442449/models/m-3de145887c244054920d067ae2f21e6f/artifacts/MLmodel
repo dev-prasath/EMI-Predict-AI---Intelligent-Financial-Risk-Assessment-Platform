@@ -1,0 +1,23 @@
+artifact_path: file:///e:/Data_Science/Guvi_Capstone%20Project/EMI_Predict_financial%20Risk%20Assessment/notebooks/mlruns/962091367227442449/models/m-3de145887c244054920d067ae2f21e6f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+mlflow_version: 3.11.1
+model_id: m-3de145887c244054920d067ae2f21e6f
+model_size_bytes: 1467133
+model_uuid: m-3de145887c244054920d067ae2f21e6f
+prompts: null
+run_id: a296b37606c0477dbc3dc287a2b8df0f
+utc_time_created: '2026-04-16 10:57:35.459812'

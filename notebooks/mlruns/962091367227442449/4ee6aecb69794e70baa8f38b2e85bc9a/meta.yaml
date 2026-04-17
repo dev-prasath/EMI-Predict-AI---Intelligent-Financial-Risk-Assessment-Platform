@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/Data_Science/Guvi_Capstone%20Project/EMI_Predict_financial%20Risk%20Assessment/notebooks/mlruns/962091367227442449/4ee6aecb69794e70baa8f38b2e85bc9a/artifacts
+end_time: 1776398623304
+entry_point_name: ''
+experiment_id: '962091367227442449'
+lifecycle_stage: active
+run_id: 4ee6aecb69794e70baa8f38b2e85bc9a
+run_name: XGBoost_Regressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776398614008
+status: 3
+tags: []
+user_id: hp
